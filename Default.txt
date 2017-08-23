@@ -1,4 +1,17 @@
+#
+# This is the Master File for the SDX Mods available in the SDX Mod Helper
+#
+# This file will point to other text files that'll contain links to Repos which are holding SDX mods.
+#
+# Each of the files listed in here will point to where their Mods folders can be at:
+#
+#     https://github.com/7D2DSDX/Mods
+# 
+# Inside the above GitHub repos, each mod is separated by a folder:
+#		BiggerBackPack\mod.xml
+#		CubeSample\mod.xml
+#		KatanaSample\mod.xml
+#		ExpandedMiniBike\mod.xml
+# 
 
-
-# Main Tutorial Repos with Sample Mods
-https://github.com/7D2DSDX/Mods
+https://raw.githubusercontent.com/7D2DSDX/ModConfig/master/SampleMods.txt
