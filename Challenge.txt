@@ -2,3 +2,4 @@ https://github.com/7D2DSDX/Mods/tree/master/BloodMoonTrickle
 https://github.com/7D2DSDX/Mods/tree/master/NightlyBloodMoon
 https://github.com/7D2DSDX/Mods/tree/master/ZombieTransmogrifier
 https://github.com/7D2D/Mods/tree/master/RomeroMode
+https://github.com/7D2DSDX/Mods/tree/master/ClearUI
