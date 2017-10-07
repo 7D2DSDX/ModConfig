@@ -7,3 +7,4 @@ https://github.com/7D2DSDX/Mods/tree/master/ZombieTransmogrifier
 https://github.com/7D2D/Mods/tree/master/RomeroMode
 https://github.com/7D2DSDX/SDXMods_Development/tree/master/SummerDecorations
 https://github.com/7D2DSDX/SDXMods_Development/tree/master/WinterDecorations
+https://github.com/7D2DSDX/Mods/tree/master/BloodMoonTrickle
