@@ -5,8 +5,8 @@ https://github.com/7D2D/Mods/tree/master/NoAmmo
 https://github.com/7D2DSDX/Mods/tree/master/NightlyBloodMoonHeadStart
 https://github.com/7D2DSDX/SDXMods_Development/tree/master/ZombieTransmogrifier
 https://github.com/7D2D/Mods/tree/master/RomeroMode
-https://github.com/7D2DSDX/SDXMods_Development/tree/master/Summer_Decorations
-https://github.com/7D2DSDX/SDXMods_Development/tree/master/Winter_Decorations
+https://github.com/7D2DSDX/Mods/tree/master/Summer_Decorations
+https://github.com/7D2DSDX/Mods/tree/master/Winter_Decorations
 https://github.com/7D2DSDX/SDXMods_Development/tree/master/DesertDecorations
 https://github.com/7D2DSDX/SDXMods_Development/tree/master/NightlyBloodMoon
 https://github.com/7D2DSDX/SDXMods_Development/tree/master/WastelandDecorations
